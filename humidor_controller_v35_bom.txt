@@ -1,0 +1,74 @@
+Partlist
+
+Exported from humidor_controller_v35.sch at 24.09.2012 16:11:15
+
+EAGLE Version 6.2.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part     Value                    Device                   Package     Library               Sheet
+
+C1       22p                      C-EUC0805                C0805       rcl                   1
+C2       22p                      C-EUC0805                C0805       rcl                   1
+C3       100n                     C-EUC0805                C0805       resistor              1
+C4       100n                     C-EUC0805                C0805       resistor              1
+C5       100n                     C-EUC0805                C0805       resistor              1
+C6       100n                     C-EUC0805                C0805       resistor              1
+C7       100n                     C-EUC0805                C0805       resistor              1
+C9       100n                     C-EUC0805                C0805       resistor              1
+C10      100n                     C-EUC0805                C0805       resistor              1
+C11      100n                     C-EUC0805                C0805       resistor              1
+C12      100n                     C-EUC0805                C0805       resistor              1
+C13      100n                     C-EUC0805                C0805       resistor              1
+C14      100n                     C-EUC0805                C0805       resistor              1
+C20      220u                     CPOL-EUG                 PANASONIC_G rcl                   1
+C21      10u                      CPOL-EUB                 PANASONIC_B rcl                   1
+C22      100n                     C-EUC0805                C0805       rcl                   1
+C23      10u                      C-EUC0805                C0805       rcl                   1
+CON1                              52207-16                 52207-16    jt-con-molex          1
+CON2     MINI-USB-32005-201       MINI-USB-32005-201       32005-201   con-cypressindustries 1
+D1       3,6V                     ZENER-DIODESOD80C        SOD80C      diode                 1
+D2       3,6V                     ZENER-DIODESOD80C        SOD80C      diode                 1
+D3       BAT54S                   BAT54S                   SOT23       diode                 1
+D4       BAT54S                   BAT54S                   SOT23       diode                 1
+D5       BAT54S                   BAT54S                   SOT23       diode                 1
+D6       BAT54S                   BAT54S                   SOT23       diode                 1
+D10                               DIODE-SOD123             SOD123      ferdinandkeil         1
+D11                               DIODE-SOD123             SOD123      ferdinandkeil         1
+D12                               DIODE-SOD123             SOD123      ferdinandkeil         1
+D13                               DIODE-SOD123             SOD123      ferdinandkeil         1
+D14                               DIODE-SOD123             SOD123      ferdinandkeil         1
+ENC1                              NOBLE_RE0124             RE0124      ferdinandkeil         1
+F1       1812L                    1812L                    1812L       ptc-littlefuse        1
+IC1      MEGA8-AI                 MEGA8-AI                 TQFP32-08   atmel                 1
+IC3      78L05SMD                 78L05SMD                 SO08        linear                1
+J1       22-27-2031-03            22-27-2031-03            6410-03     ferdinandkeil         1
+J2       22-27-2031-03            22-27-2031-03            6410-03     ferdinandkeil         1
+J3       22-27-2031-03            22-27-2031-03            6410-03     ferdinandkeil         1
+J4       22-27-2041-04            22-27-2041-04            6410-04     ferdinandkeil         1
+J5       22-27-2021-02            22-27-2021-02            6410-02     ferdinandkeil         1
+J6       22-27-2031-03            22-27-2031-03            6410-03     ferdinandkeil         1
+LED1     LED-P47F-BOTTOM          LED-P47F-BOTTOM          P47F-BOTTOM ferdinandkeil         1
+Q1       N-HEXFET_SOT23-IRLML2502 N-HEXFET_SOT23-IRLML2502 SOT23       ferdinandkeil         1
+Q2       N-HEXFET_SOT23-IRLML2502 N-HEXFET_SOT23-IRLML2502 SOT23       ferdinandkeil         1
+Q3       N-HEXFET_SOT23-IRLML2502 N-HEXFET_SOT23-IRLML2502 SOT23       ferdinandkeil         1
+Q4       N-HEXFET_SOT23-IRLML2502 N-HEXFET_SOT23-IRLML2502 SOT23       ferdinandkeil         1
+Q5       N-HEXFET_SOT23-IRLML2502 N-HEXFET_SOT23-IRLML2502 SOT23       ferdinandkeil         1
+R1       1,5k                     R-EU_R0805               R0805       resistor              1
+R2       68                       R-EU_R0805               R0805       resistor              1
+R3       68                       R-EU_R0805               R0805       resistor              1
+R4       10k                      R-EU_R0805               R0805       resistor              1
+R5       220                      R-EU_R0805               R0805       resistor              1
+R6                                R-TRIMM4G/J              RTRIM4G/J   rcl                   1
+R10      220                      R-EU_R0805               R0805       resistor              1
+R11      10k                      R-EU_R0805               R0805       resistor              1
+R12      220                      R-EU_R0805               R0805       resistor              1
+R13      10k                      R-EU_R0805               R0805       resistor              1
+R14      220                      R-EU_R0805               R0805       resistor              1
+R15      10k                      R-EU_R0805               R0805       resistor              1
+R16      220                      R-EU_R0805               R0805       resistor              1
+R17      10k                      R-EU_R0805               R0805       resistor              1
+R18      220                      R-EU_R0805               R0805       resistor              1
+R19      10k                      R-EU_R0805               R0805       resistor              1
+SG1      TDB12                    TDB12                    TDB         ferdinandkeil         1
+X1       16                       CRYSTALHC49UP            HC49UP      crystal               1
